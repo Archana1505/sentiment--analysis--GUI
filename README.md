@@ -1,5 +1,5 @@
 # sentiment--analysis--GUI
-This  a sproject is a  sentiment analysis GUI using Tkinter and TextBlob.
+This  a project is a  sentiment analysis GUI using Tkinter and TextBlob.
 It features a main window where users can input text. When the "Analyze Sentiment" button is clicked,
 it checks if the input is empty and performs sentiment analysis on the text.
 The analysis determines whether the sentiment is positive, negative, or neutral based on polarity scores.
